@@ -1,7 +1,16 @@
 {
   "version": 2,
-  "activeId": null,
+  "activeId": "6d73ffa1-c12c-472b-a2c4-2fcaae90ccf4",
   "entries": [
+    {
+      "id": "6d73ffa1-c12c-472b-a2c4-2fcaae90ccf4",
+      "title": "继续使用codex",
+      "notes": "",
+      "startedAt": "2026-07-26T08:36:21.425Z",
+      "endedAt": null,
+      "createdAt": "2026-07-26T08:36:21.425Z",
+      "updatedAt": "2026-07-26T08:36:21.425Z"
+    },
     {
       "id": "627c1269-66d1-4c61-b64d-7514e69cbcdb",
       "title": "用Codex写代码",
