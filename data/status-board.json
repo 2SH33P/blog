@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "activeId": "cda46c8b-3a1d-434a-823d-373735d107bb",
+  "activeId": null,
   "entries": [
     {
       "id": "cda46c8b-3a1d-434a-823d-373735d107bb",
       "title": "开发项目",
       "notes": "",
       "startedAt": "2026-07-26T13:58:20.248Z",
-      "endedAt": null,
+      "endedAt": "2026-07-26T15:07:25.338Z",
       "createdAt": "2026-07-26T13:58:20.248Z",
-      "updatedAt": "2026-07-26T13:58:20.248Z"
+      "updatedAt": "2026-07-26T15:07:25.338Z"
     },
     {
       "id": "06d1951c-b009-4416-98b9-0a419adaf7eb",
