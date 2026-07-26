@@ -1,7 +1,16 @@
 {
   "version": 2,
-  "activeId": null,
+  "activeId": "56df3f6e-ad3b-4b84-9685-c70ce72ef226",
   "entries": [
+    {
+      "id": "56df3f6e-ad3b-4b84-9685-c70ce72ef226",
+      "title": "洗碗",
+      "notes": "",
+      "startedAt": "2026-07-26T09:19:12.693Z",
+      "endedAt": null,
+      "createdAt": "2026-07-26T09:19:12.693Z",
+      "updatedAt": "2026-07-26T09:19:12.693Z"
+    },
     {
       "id": "a69811c9-3d50-4910-a048-a47bcbe0f2e6",
       "title": "玩电脑",
