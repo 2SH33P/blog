@@ -29,138 +29,8 @@
   ],
   "holidays": [
     {
-      "date": "2026-07-02",
-      "typeId": "confirmed",
-      "note": ""
-    },
-    {
-      "date": "2026-07-02",
-      "typeId": "extra-normal",
-      "note": ""
-    },
-    {
-      "date": "2026-07-02",
-      "typeId": "rumor",
-      "note": ""
-    },
-    {
-      "date": "2026-07-03",
-      "typeId": "confirmed",
-      "note": ""
-    },
-    {
-      "date": "2026-07-03",
-      "typeId": "extra-normal",
-      "note": ""
-    },
-    {
-      "date": "2026-07-03",
-      "typeId": "rumor",
-      "note": ""
-    },
-    {
-      "date": "2026-07-04",
-      "typeId": "confirmed",
-      "note": ""
-    },
-    {
-      "date": "2026-07-04",
-      "typeId": "extra-normal",
-      "note": ""
-    },
-    {
-      "date": "2026-07-04",
-      "typeId": "rumor",
-      "note": ""
-    },
-    {
-      "date": "2026-07-05",
-      "typeId": "confirmed",
-      "note": ""
-    },
-    {
-      "date": "2026-07-05",
-      "typeId": "extra-normal",
-      "note": ""
-    },
-    {
-      "date": "2026-07-05",
-      "typeId": "rumor",
-      "note": ""
-    },
-    {
-      "date": "2026-07-06",
-      "typeId": "confirmed",
-      "note": ""
-    },
-    {
-      "date": "2026-07-06",
-      "typeId": "extra-normal",
-      "note": ""
-    },
-    {
-      "date": "2026-07-06",
-      "typeId": "rumor",
-      "note": ""
-    },
-    {
-      "date": "2026-07-07",
-      "typeId": "confirmed",
-      "note": ""
-    },
-    {
-      "date": "2026-07-07",
-      "typeId": "extra-normal",
-      "note": ""
-    },
-    {
-      "date": "2026-07-07",
-      "typeId": "rumor",
-      "note": ""
-    },
-    {
-      "date": "2026-07-08",
-      "typeId": "confirmed",
-      "note": ""
-    },
-    {
-      "date": "2026-07-08",
-      "typeId": "extra-normal",
-      "note": ""
-    },
-    {
-      "date": "2026-07-08",
-      "typeId": "rumor",
-      "note": ""
-    },
-    {
-      "date": "2026-07-09",
-      "typeId": "confirmed",
-      "note": ""
-    },
-    {
-      "date": "2026-07-09",
-      "typeId": "extra-normal",
-      "note": ""
-    },
-    {
-      "date": "2026-07-09",
-      "typeId": "rumor",
-      "note": ""
-    },
-    {
       "date": "2026-07-10",
       "typeId": "confirmed",
-      "note": ""
-    },
-    {
-      "date": "2026-07-10",
-      "typeId": "extra-normal",
-      "note": ""
-    },
-    {
-      "date": "2026-07-10",
-      "typeId": "rumor",
       "note": ""
     },
     {
@@ -169,28 +39,8 @@
       "note": ""
     },
     {
-      "date": "2026-07-11",
-      "typeId": "extra-normal",
-      "note": ""
-    },
-    {
-      "date": "2026-07-11",
-      "typeId": "rumor",
-      "note": ""
-    },
-    {
       "date": "2026-07-12",
       "typeId": "confirmed",
-      "note": ""
-    },
-    {
-      "date": "2026-07-12",
-      "typeId": "extra-normal",
-      "note": ""
-    },
-    {
-      "date": "2026-07-12",
-      "typeId": "rumor",
       "note": ""
     },
     {
@@ -199,28 +49,8 @@
       "note": ""
     },
     {
-      "date": "2026-07-13",
-      "typeId": "extra-normal",
-      "note": ""
-    },
-    {
-      "date": "2026-07-13",
-      "typeId": "rumor",
-      "note": ""
-    },
-    {
       "date": "2026-07-14",
       "typeId": "confirmed",
-      "note": ""
-    },
-    {
-      "date": "2026-07-14",
-      "typeId": "extra-normal",
-      "note": ""
-    },
-    {
-      "date": "2026-07-14",
-      "typeId": "rumor",
       "note": ""
     },
     {
@@ -229,28 +59,8 @@
       "note": ""
     },
     {
-      "date": "2026-07-15",
-      "typeId": "extra-normal",
-      "note": ""
-    },
-    {
-      "date": "2026-07-15",
-      "typeId": "rumor",
-      "note": ""
-    },
-    {
       "date": "2026-07-16",
       "typeId": "confirmed",
-      "note": ""
-    },
-    {
-      "date": "2026-07-16",
-      "typeId": "extra-normal",
-      "note": ""
-    },
-    {
-      "date": "2026-07-16",
-      "typeId": "rumor",
       "note": ""
     },
     {
@@ -259,28 +69,8 @@
       "note": ""
     },
     {
-      "date": "2026-07-17",
-      "typeId": "extra-normal",
-      "note": ""
-    },
-    {
-      "date": "2026-07-17",
-      "typeId": "rumor",
-      "note": ""
-    },
-    {
       "date": "2026-07-18",
       "typeId": "confirmed",
-      "note": ""
-    },
-    {
-      "date": "2026-07-18",
-      "typeId": "extra-normal",
-      "note": ""
-    },
-    {
-      "date": "2026-07-18",
-      "typeId": "rumor",
       "note": ""
     },
     {
@@ -289,28 +79,8 @@
       "note": ""
     },
     {
-      "date": "2026-07-19",
-      "typeId": "extra-normal",
-      "note": ""
-    },
-    {
-      "date": "2026-07-19",
-      "typeId": "rumor",
-      "note": ""
-    },
-    {
       "date": "2026-07-20",
       "typeId": "confirmed",
-      "note": ""
-    },
-    {
-      "date": "2026-07-20",
-      "typeId": "extra-normal",
-      "note": ""
-    },
-    {
-      "date": "2026-07-20",
-      "typeId": "rumor",
       "note": ""
     },
     {
@@ -319,28 +89,8 @@
       "note": ""
     },
     {
-      "date": "2026-07-21",
-      "typeId": "extra-normal",
-      "note": ""
-    },
-    {
-      "date": "2026-07-21",
-      "typeId": "rumor",
-      "note": ""
-    },
-    {
       "date": "2026-07-22",
       "typeId": "confirmed",
-      "note": ""
-    },
-    {
-      "date": "2026-07-22",
-      "typeId": "extra-normal",
-      "note": ""
-    },
-    {
-      "date": "2026-07-22",
-      "typeId": "rumor",
       "note": ""
     },
     {
@@ -349,28 +99,8 @@
       "note": ""
     },
     {
-      "date": "2026-07-23",
-      "typeId": "extra-normal",
-      "note": ""
-    },
-    {
-      "date": "2026-07-23",
-      "typeId": "rumor",
-      "note": ""
-    },
-    {
       "date": "2026-07-24",
       "typeId": "confirmed",
-      "note": ""
-    },
-    {
-      "date": "2026-07-24",
-      "typeId": "extra-normal",
-      "note": ""
-    },
-    {
-      "date": "2026-07-24",
-      "typeId": "rumor",
       "note": ""
     },
     {
@@ -379,28 +109,8 @@
       "note": ""
     },
     {
-      "date": "2026-07-25",
-      "typeId": "extra-normal",
-      "note": ""
-    },
-    {
-      "date": "2026-07-25",
-      "typeId": "rumor",
-      "note": ""
-    },
-    {
       "date": "2026-07-26",
       "typeId": "confirmed",
-      "note": ""
-    },
-    {
-      "date": "2026-07-26",
-      "typeId": "extra-normal",
-      "note": ""
-    },
-    {
-      "date": "2026-07-26",
-      "typeId": "rumor",
       "note": ""
     },
     {
@@ -409,28 +119,8 @@
       "note": ""
     },
     {
-      "date": "2026-07-27",
-      "typeId": "extra-normal",
-      "note": ""
-    },
-    {
-      "date": "2026-07-27",
-      "typeId": "rumor",
-      "note": ""
-    },
-    {
       "date": "2026-07-28",
       "typeId": "confirmed",
-      "note": ""
-    },
-    {
-      "date": "2026-07-28",
-      "typeId": "extra-normal",
-      "note": ""
-    },
-    {
-      "date": "2026-07-28",
-      "typeId": "rumor",
       "note": ""
     },
     {
@@ -439,45 +129,15 @@
       "note": ""
     },
     {
-      "date": "2026-07-29",
-      "typeId": "extra-normal",
-      "note": ""
-    },
-    {
-      "date": "2026-07-29",
-      "typeId": "rumor",
-      "note": ""
-    },
-    {
       "date": "2026-07-30",
       "typeId": "confirmed",
       "note": ""
     },
     {
-      "date": "2026-07-30",
-      "typeId": "extra-normal",
-      "note": ""
-    },
-    {
-      "date": "2026-07-30",
-      "typeId": "rumor",
-      "note": ""
-    },
-    {
       "date": "2026-07-31",
       "typeId": "confirmed",
-      "note": ""
-    },
-    {
-      "date": "2026-07-31",
-      "typeId": "extra-normal",
-      "note": ""
-    },
-    {
-      "date": "2026-07-31",
-      "typeId": "rumor",
       "note": ""
     }
   ],
-  "updatedAt": "2026-07-26T23:44:35.332Z"
+  "updatedAt": "2026-07-26T23:57:38.537Z"
 }
