@@ -1,21 +1,6 @@
 {
   "posts": [
     {
-      "id": "97a08f0a-7549-4f60-8826-df071e830262",
-      "slug": "你好-2",
-      "title": "你好",
-      "excerpt": "你好",
-      "content": "你好",
-      "category": "要闻",
-      "tags": [],
-      "authorName": "你好",
-      "authorAvatar": "",
-      "cover": "",
-      "publishedAt": "2026-07-26T06:55:00.000Z",
-      "updatedAt": "2026-07-26T06:55:00.000Z",
-      "pinned": true
-    },
-    {
       "id": "ce2929e6-63c7-48dc-b685-d623dffaf79c",
       "slug": "你好",
       "title": "你好",
