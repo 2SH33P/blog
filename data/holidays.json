@@ -29,21 +29,6 @@
   ],
   "holidays": [
     {
-      "date": "2026-07-01",
-      "typeId": "confirmed",
-      "note": ""
-    },
-    {
-      "date": "2026-07-01",
-      "typeId": "extra-normal",
-      "note": ""
-    },
-    {
-      "date": "2026-07-01",
-      "typeId": "rumor",
-      "note": ""
-    },
-    {
       "date": "2026-07-02",
       "typeId": "confirmed",
       "note": ""
@@ -494,5 +479,5 @@
       "note": ""
     }
   ],
-  "updatedAt": "2026-07-26T23:43:02.257Z"
+  "updatedAt": "2026-07-26T23:43:54.495Z"
 }
