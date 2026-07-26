@@ -1,7 +1,16 @@
 {
   "version": 2,
-  "activeId": null,
+  "activeId": "fdf053d2-f715-4190-9a2a-023413cf4002",
   "entries": [
+    {
+      "id": "fdf053d2-f715-4190-9a2a-023413cf4002",
+      "title": "玩Codex",
+      "notes": "",
+      "startedAt": "2026-07-26T09:42:42.099Z",
+      "endedAt": null,
+      "createdAt": "2026-07-26T09:42:42.099Z",
+      "updatedAt": "2026-07-26T09:42:42.099Z"
+    },
     {
       "id": "41f0fca5-24ff-4d1b-83d7-111a34913bdf",
       "title": "吃榴莲",
