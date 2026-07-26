@@ -1,4 +1,23 @@
 {
-  "posts": [],
+  "posts": [
+    {
+      "id": "d29a899b-5d43-459b-8d80-4d03ac2b683b",
+      "slug": "一切的开始",
+      "code": "first-of-all",
+      "title": "一切的开始",
+      "excerpt": "",
+      "content": "如题所述。\n\n我实在是闲出了屁来，在作业仍然没有办法完成的情况下，在暑假只有四天的现在整了这个博客项目。\n\n",
+      "tags": [],
+      "authorName": "2SH33P",
+      "authorAvatar": "",
+      "cover": "",
+      "previewImage": "",
+      "publishedAt": "2026-07-26T08:40:00.000Z",
+      "updatedAt": "2026-07-26T08:40:00.000Z",
+      "indentParagraphs": true,
+      "pinned": false,
+      "pinOrder": 0
+    }
+  ],
   "about": ""
 }
