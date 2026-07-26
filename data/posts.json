@@ -1,6 +1,26 @@
 {
   "posts": [
     {
+      "id": "34ebfd76-286f-458f-ab7f-121186a0a748",
+      "slug": "思路分享-我将拥抱-severless-实现梦想",
+      "code": "share-serverless-tech",
+      "title": "【思路分享】我将拥抱 Severless 实现梦想",
+      "excerpt": "",
+      "content": "手里有好几台服务器，配置老差老差了，网络又不行，拿来做项目想给国内的同学看基本无法实现。而且时刻担心自己会被攻击，怎样都没法子安心建站。\n\n最近看了二叉树树的视频，里面提到无服务器（Severless）的概念：**直接把代码托管到边缘运行，无须再对服务器进行单独的维护**。（我的理解）这使得命运的齿轮开始转动。\n\n虽然说很多 Docker 项目确实做不了，但是现在有 AI 呀！想要什么自己做就行了。就像这个博客，因为我厌烦了 Wordpress 这种吃服务器的玩意，又不满意 Hexo 这种必须在电脑上编译好再推送到远程仓库的静态博客框架（而且放在 Github Pages 上特别吃前端 js 加载速度，是不是有一点臃肿），自己最后借助 gpt 5.5 神力从头用 Worker 写了这个样式朝学习强国看齐的博客样式，最终成为了现在的样子。这就是一个很好的例子。\n\n使用 Cloudflare Workers 进行部署，其实不一定要使用 D1 数据库或者 R2 作为对象存储，我们可以找老朋友 **Github** 帮我们实现这个功能。和AI说一声，数据存在 Github 就可以了。Github 似乎默认走 API 路线，需要提供 github_token，不过这是在 Workers 后台完成的，只要 Workers 绑定了域名能被国内访问到，国内用户应该是可以不用考虑 Github 的问题，虽然加载速度在优选之后仍然可能不太乐观，但是可以规避超级多的风险，除了域名的费用基本实现了白嫖。\n\n我已经使用这个思路搭建了好多个项目，真的搭爽了啊啊啊啊啊啊啊！！！！！",
+      "tags": [
+        "技术"
+      ],
+      "authorName": "2SH33P",
+      "authorAvatar": "",
+      "cover": "",
+      "previewImage": "",
+      "publishedAt": "2026-07-26T14:59:00.000Z",
+      "updatedAt": "2026-07-26T14:59:00.000Z",
+      "indentParagraphs": true,
+      "pinned": false,
+      "pinOrder": 0
+    },
+    {
       "id": "d29a899b-5d43-459b-8d80-4d03ac2b683b",
       "slug": "一切的开始",
       "code": "first-of-all",
