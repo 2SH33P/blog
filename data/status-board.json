@@ -1,7 +1,16 @@
 {
   "version": 2,
-  "activeId": null,
+  "activeId": "06d1951c-b009-4416-98b9-0a419adaf7eb",
   "entries": [
+    {
+      "id": "06d1951c-b009-4416-98b9-0a419adaf7eb",
+      "title": "下楼玩",
+      "notes": "",
+      "startedAt": "2026-07-26T11:29:31.108Z",
+      "endedAt": null,
+      "createdAt": "2026-07-26T11:29:31.108Z",
+      "updatedAt": "2026-07-26T11:29:31.108Z"
+    },
     {
       "id": "646199b0-49e7-4136-8492-74c75f3e88c8",
       "title": "吃晚饭",
