@@ -1,24 +1,5 @@
 {
   "version": 2,
   "activeId": null,
-  "entries": [
-    {
-      "id": "6d73ffa1-c12c-472b-a2c4-2fcaae90ccf4",
-      "title": "继续使用codex",
-      "notes": "666",
-      "startedAt": "2026-07-26T08:36:21.425Z",
-      "endedAt": "2026-07-26T08:37:35.519Z",
-      "createdAt": "2026-07-26T08:36:21.425Z",
-      "updatedAt": "2026-07-26T08:37:35.519Z"
-    },
-    {
-      "id": "627c1269-66d1-4c61-b64d-7514e69cbcdb",
-      "title": "用Codex写代码",
-      "notes": "",
-      "startedAt": "2026-07-26T08:26:55.890Z",
-      "endedAt": "2026-07-26T08:27:22.907Z",
-      "createdAt": "2026-07-26T08:26:55.890Z",
-      "updatedAt": "2026-07-26T08:27:22.907Z"
-    }
-  ]
+  "entries": []
 }
