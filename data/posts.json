@@ -1,3 +1,19 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "id": "a58e3e72-663d-487d-b832-6252eefdd241",
+      "slug": "你好",
+      "title": "你好",
+      "excerpt": "",
+      "content": "## 我是大傻逼",
+      "category": "要闻",
+      "tags": [],
+      "authorName": "1",
+      "authorAvatar": "",
+      "cover": "",
+      "publishedAt": "2026-07-26T07:07:00.000Z",
+      "updatedAt": "2026-07-26T07:07:00.000Z",
+      "pinned": false
+    }
+  ]
 }
