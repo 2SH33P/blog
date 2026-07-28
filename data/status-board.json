@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "activeId": "3227c5d1-4ea8-412f-88a5-962990af28d9",
+  "activeId": null,
   "entries": [
     {
       "id": "3227c5d1-4ea8-412f-88a5-962990af28d9",
       "title": "小憩20分钟",
       "notes": "",
       "startedAt": "2026-07-28T10:08:03.839Z",
-      "endedAt": null,
+      "endedAt": "2026-07-28T10:31:21.205Z",
       "createdAt": "2026-07-28T10:08:03.839Z",
-      "updatedAt": "2026-07-28T10:08:03.839Z"
+      "updatedAt": "2026-07-28T10:31:21.205Z"
     },
     {
       "id": "6ebb8ec5-83ae-49ee-a175-455501fd88a4",
