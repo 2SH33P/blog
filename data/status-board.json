@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "activeId": "6ebb8ec5-83ae-49ee-a175-455501fd88a4",
+  "activeId": null,
   "entries": [
     {
       "id": "6ebb8ec5-83ae-49ee-a175-455501fd88a4",
       "title": "补作业",
       "notes": "",
       "startedAt": "2026-07-28T08:18:50.725Z",
-      "endedAt": null,
+      "endedAt": "2026-07-28T10:04:36.181Z",
       "createdAt": "2026-07-28T08:18:50.725Z",
-      "updatedAt": "2026-07-28T08:18:50.725Z"
+      "updatedAt": "2026-07-28T10:04:36.181Z"
     },
     {
       "id": "02f6c75c-5390-4b2d-bf1b-d6a9ab22e926",
