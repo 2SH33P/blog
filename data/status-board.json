@@ -1,7 +1,16 @@
 {
   "version": 2,
-  "activeId": null,
+  "activeId": "d180b06d-a752-481a-846c-2b46360ebaaa",
   "entries": [
+    {
+      "id": "d180b06d-a752-481a-846c-2b46360ebaaa",
+      "title": "玩电脑",
+      "notes": "主要是测试程序是否可以在win11上跑通。然后起草假期挽救措施，真的测试完就去写作业",
+      "startedAt": "2026-07-28T05:30:21.369Z",
+      "endedAt": null,
+      "createdAt": "2026-07-28T05:30:21.369Z",
+      "updatedAt": "2026-07-28T05:30:21.369Z"
+    },
     {
       "id": "6717a37f-d8c4-46eb-a109-e3878ffb557b",
       "title": "（准备）吃早餐",
