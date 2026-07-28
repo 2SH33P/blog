@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "activeId": "4025af07-aae0-4c67-8b6d-e704770d2db8",
+  "activeId": null,
   "entries": [
     {
       "id": "4025af07-aae0-4c67-8b6d-e704770d2db8",
       "title": "赶作业",
       "notes": "待办：添加睡眠的时间记录\n\n差不多一个小时吧，期间休息十分钟，不去动 Electronic Devices。\n在前期可能要放好电脑之类，要吃一点时间。大概五到七分钟？（实际是11分钟）",
       "startedAt": "2026-07-28T06:41:19.657Z",
-      "endedAt": null,
+      "endedAt": "2026-07-28T07:56:58.081Z",
       "createdAt": "2026-07-28T06:41:19.657Z",
-      "updatedAt": "2026-07-28T06:53:43.010Z"
+      "updatedAt": "2026-07-28T07:56:58.081Z"
     },
     {
       "id": "d180b06d-a752-481a-846c-2b46360ebaaa",
