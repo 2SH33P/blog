@@ -1,7 +1,16 @@
 {
   "version": 2,
-  "activeId": null,
+  "activeId": "6ebb8ec5-83ae-49ee-a175-455501fd88a4",
   "entries": [
+    {
+      "id": "6ebb8ec5-83ae-49ee-a175-455501fd88a4",
+      "title": "补作业",
+      "notes": "",
+      "startedAt": "2026-07-28T08:18:50.725Z",
+      "endedAt": null,
+      "createdAt": "2026-07-28T08:18:50.725Z",
+      "updatedAt": "2026-07-28T08:18:50.725Z"
+    },
     {
       "id": "02f6c75c-5390-4b2d-bf1b-d6a9ab22e926",
       "title": "小憩10分钟",
