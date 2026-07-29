@@ -1,7 +1,16 @@
 {
   "version": 2,
-  "activeId": null,
+  "activeId": "30277db5-c300-4391-99c4-3bd220030d7a",
   "entries": [
+    {
+      "id": "30277db5-c300-4391-99c4-3bd220030d7a",
+      "title": "补作业",
+      "notes": "",
+      "startedAt": "2026-07-29T07:45:05.735Z",
+      "endedAt": null,
+      "createdAt": "2026-07-29T07:45:05.735Z",
+      "updatedAt": "2026-07-29T07:45:05.735Z"
+    },
     {
       "id": "b4765a01-4c0f-4f8d-a186-697d68f23ae2",
       "title": "打排球",
