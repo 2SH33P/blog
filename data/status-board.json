@@ -1,7 +1,16 @@
 {
   "version": 2,
-  "activeId": null,
+  "activeId": "86144cc9-13e4-4b72-97a5-26437afbdb9e",
   "entries": [
+    {
+      "id": "86144cc9-13e4-4b72-97a5-26437afbdb9e",
+      "title": "赶作业",
+      "notes": "这一次，我要赶一个小时起步...",
+      "startedAt": "2026-07-29T02:49:27.674Z",
+      "endedAt": null,
+      "createdAt": "2026-07-29T02:49:27.674Z",
+      "updatedAt": "2026-07-29T02:49:27.674Z"
+    },
     {
       "id": "3227c5d1-4ea8-412f-88a5-962990af28d9",
       "title": "小憩20分钟",
